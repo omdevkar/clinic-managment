@@ -1,0 +1,15 @@
+.custom_bg{
+    background: #13C5DD!important;
+}
+.admin.card{
+    border: 3px solid #13C5DD;
+}
+.admin.card:hover{
+    
+    background: #13C5DD;
+    cursor: pointer;
+}
+.admin-img{
+    height: 100px;
+    width: 100px;
+}
